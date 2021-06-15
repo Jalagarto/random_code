@@ -65,7 +65,7 @@ syntax enable                               " syntax highlight
 
 set t_Co=256                                " set 256 colors
 " colorscheme wombat256mod                  " set color scheme
-colorscheme monokai                         " set color scheme
+colorscheme monokai                         " set color scheme --> ~/.vim/colors/monokai.vim
 
 set number                                  " show line numbers
 set ruler
